@@ -1,0 +1,14 @@
+{
+  "name": "image-slider",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AleksandrukZakhar/image-slider.git",
+  "author": "AleksandrukZakhar <zakharaleksandrukdev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.25.2"
+  }
+}
