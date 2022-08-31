@@ -1,10 +1,10 @@
 const img = document.querySelector("img");
 const imagePaths = [
-    "../assets/waterfall-1.jpg",
-    "../assets/waterfall-2.jpg",
-    "../assets/waterfall-3.jpg",
-    "../assets/waterfall-4.jpg",
-    "../assets/waterfall-5.jpg",
+    "./assets/waterfall-1.jpg",
+    "./assets/waterfall-2.jpg",
+    "./assets/waterfall-3.jpg",
+    "./assets/waterfall-4.jpg",
+    "./assets/waterfall-5.jpg",
 ];
 
 let count = 0;
